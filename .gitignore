@@ -60,3 +60,16 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+.DS_Store
+**/.DS_Store
+*/.build
+*/build
+.build/
+build/
+*/sdkconfig
+*/sdkconfig.old
+*/managed_components
+*/dependencies.lock
+*/.cache/
+.docc-build
