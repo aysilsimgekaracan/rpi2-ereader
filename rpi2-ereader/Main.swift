@@ -1,3 +1,10 @@
+//
+//  Main.swift
+//  rpi2-ereader
+//
+//  Created by Ayşıl Simge Karacan on 19.09.2026.
+//
+
 @main
 struct Main {
   // Pins
